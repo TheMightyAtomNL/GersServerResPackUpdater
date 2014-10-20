@@ -1,0 +1,7 @@
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\bin\Debug\GersServerResPackUpdater.exe
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\bin\Debug\GersServerResPackUpdater.pdb
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\obj\Debug\GersServerResPackUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\obj\Debug\GersServerResPackUpdater.Properties.Resources.resources
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\obj\Debug\GersServerResPackUpdater.csproj.GenerateResource.Cache
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\obj\Debug\GersServerResPackUpdater.exe
+C:\Users\Michiel\documents\visual studio 2013\Projects\GersServerResPackUpdater\obj\Debug\GersServerResPackUpdater.pdb
